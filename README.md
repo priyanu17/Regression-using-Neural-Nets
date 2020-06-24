@@ -1,7 +1,7 @@
 # Regression-using-Neural-Nets
 Regression analysis on different datasets:
 
-1) Wine Quality data using machine learning algorithms and using Artificial Neural Nets.
+I Wine Quality prediction using machine learning algorithms and using Artificial Neural Nets.
 Data is available on the UCI machine learning repository.
 https://archive.ics.uci.edu/ml/datasets/wine+quality
 
@@ -34,3 +34,7 @@ Input variables (based on physicochemical tests):
 Output variable (based on sensory data):
 
 12 - quality (score between 0 and 10)
+
+II Diamonds price prediction using regression techniques.
+Data is available on Kaggle.
+
